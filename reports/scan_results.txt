@@ -1,0 +1,24 @@
+PORT SCAN REPORT
+==================================================
+Target: 127.0.0.1
+Resolved IP: 127.0.0.1
+Scan Mode: Full Scan
+Date: 2026-06-02 22:41:24
+
+Port 1716 OPEN (KDE Connect)
+Banner: No Banner
+
+Port 33404 OPEN (Unknown Service)
+Banner: No Banner
+
+Port 37736 OPEN (Unknown Service)
+Banner: HTTP/1.1 404 Not Found
+X-Powered-By: Express
+Vary: Origin
+Content-Security-Policy: default-src 'n
+
+Port 38278 OPEN (Unknown Service)
+Banner: No Banner
+
+Total Open Ports: 4
+Scan Time: 2.3 seconds
